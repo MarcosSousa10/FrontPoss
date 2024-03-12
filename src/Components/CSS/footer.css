@@ -1,0 +1,9 @@
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 65px;
+    background-color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #ffffff;
+}
